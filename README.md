@@ -16,7 +16,7 @@ This project allows players to create teams of Pokémon, engage in turn-based ba
 * Damage calculation
 * Team selection and management
 * Battle outcome determination
-* Console or graphical gameplay (depending on implementation)
+* Console gameplay
 
 \---
 
