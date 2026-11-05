@@ -2,7 +2,7 @@
 
 A French Pokémon-inspired battle simulator developed in Python.
 
-This project allows players to create teams of Pokémon, engage in turn-based battles, and experience core Pokémon mechanics through a custom-built battle system. It was developed as a French educational project to practise object-oriented programming, game logic design, and Python development.
+This project allows players to create teams of Pokémon, engage in turn-based battles, and experience core Pokémon mechanics through a custom-built battle system.
 
 \---
 
