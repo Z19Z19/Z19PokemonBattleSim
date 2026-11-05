@@ -51,6 +51,12 @@ The match continues until one side has no Pokémon remaining.
 git clone https://github.com/Z19Z19/Z19PokemonBattleSim.git
 cd Z19PokemonBattleSim
 ```
+### Install dependencies
+
+```bash
+pip install json requests
+```
+
 
 ## Running the Project
 
